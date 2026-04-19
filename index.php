@@ -717,7 +717,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="container">
-        <h1>Симплекс-метод. Создано при поддержке MW Inc.</h1>
+        <h1>Симплекс-метод. Создано при поддержке MW Inc. и Короля Гороха</h1>
         
         <form method="POST">
             <div class="form-group">
